@@ -35,5 +35,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo"  />
 </div>
-
+<br>
 <p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kn8a&show_icons=true&locale=en&layout=compact" alt="kn8a" /></p>
