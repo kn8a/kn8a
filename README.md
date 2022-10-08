@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kn8a&show_icons=true&locale=en&layout=compact" alt="kn8a" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kn8a&show_icons=true&locale=en" alt="kn8a" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kn8a&" alt="kn8a" /></p>
