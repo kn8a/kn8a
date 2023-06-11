@@ -1,13 +1,5 @@
 <h1 align="left">Hi 👋, I'm Andrew</h1>
-<h3 align="left">A passionate full-stack developer</h3>
-
-- 🌱 I’m currently learning **NextJS, ThreeJS**
-
-- 👨‍💻 Visit my portfolio here [https://kn8dev.com](https://kn8dev.com)
-
-- 📫 How to reach me **contact@kn8dev.com**
-
-
+<h3 align="left">A full-stack developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
