@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Andrew</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=24&duration=1000&pause=300&color=F7F7F7&random=false&width=435&lines=a+Chess+player;_;a+Programmer;_;a+Programmer;_;a+Full-Stack+Developer;_;a+Tennis+player;_" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=24&duration=1000&pause=300&color=F7F7F7&random=false&width=435&lines=a+_;a+Chess+player;a+_;a+Programmer;a+_;a+Programmer;a+_;a+Full-Stack+Developer;a+_;a+Tennis+player;a+_" alt="Typing SVG" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
