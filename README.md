@@ -3,25 +3,52 @@
 
 ```json
 {
-    "specialty": "Full Stack Developer",
-    "preffered_language": "JavaScript",
-    "portfolio": "https://kn8dev.com",
-    "education": [
-      {
-        "degree": "Bachelors of Science",
-        "major": "Computer Science"
-      }
-    ],
-    "certifications": [
-      "LPI Linux Essentials", "Axelos ITIL4"
-    ],
-    "technical_skills": {
-      "languages": ["JavaScript", "Python", "SQL", "NoSQL", "C", "Java"],
-      "technologies": ["NodeJS", "REST API", "Databases", "MVC", "Version Control (Git)", "Machine Learning", "Firestore", "Sass", "JSON"],
-      "frameworks": ["ReactJS", "Express.js", "Flask", "Bootstrap", "ChakraUI", "Bulma"],
-      "tools": ["VS Code", "MongoDB", "Linux", "Jest", "Docker", "Postman", "Git (Github)", "Vite", "Webpack", "Heroku", "Fly.io"]
+  "specialty": "Full Stack Developer",
+  "preffered_language": "JavaScript",
+  "portfolio": "https://kn8dev.com",
+  "education": [
+    {
+      "degree": "Bachelors of Science",
+      "major": "Computer Science"
     }
+  ],
+  "certifications": ["LPI Linux Essentials", "Axelos ITIL4"],
+  "technical_skills": {
+    "languages": ["JavaScript", "Python", "SQL", "NoSQL", "C", "Java"],
+    "technologies": [
+      "NodeJS",
+      "REST API",
+      "Databases",
+      "MVC",
+      "Version Control (Git)",
+      "Machine Learning",
+      "Firestore",
+      "Sass",
+      "JSON"
+    ],
+    "frameworks": [
+      "ReactJS",
+      "Express.js",
+      "Flask",
+      "Bootstrap",
+      "ChakraUI",
+      "Bulma"
+    ],
+    "tools": [
+      "VS Code",
+      "MongoDB",
+      "Linux",
+      "Jest",
+      "Docker",
+      "Postman",
+      "Git (Github)",
+      "Vite",
+      "Webpack",
+      "Heroku",
+      "Fly.io"
+    ]
   }
+}
 ```
 
 <h3 align="left">Languages and Tools:</h3>
