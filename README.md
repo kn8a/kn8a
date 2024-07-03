@@ -3,8 +3,8 @@
 
 ```json
 {
-  "specialty": "Full Stack Developer",
-  "preferred_language": "JavaScript",
+  "expertise": "Full Stack Development",
+  "primary_language": "JavaScript"
   "portfolio": "https://kn8dev.com",
   "education": [
     {
