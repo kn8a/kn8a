@@ -21,7 +21,7 @@
       "Databases",
       "MVC",
       "Machine Learning",
-      "MicroControllers"
+      "Micro Controllers"
       "Sass",
     ],
     "frameworks": [
