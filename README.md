@@ -4,7 +4,7 @@
 ```js
 const kn8 = {
   expertise: "Full Stack Development",
-  primary_language: "JavaScript"
+  primary_language: "JavaScript",
   portfolio: "https://kn8dev.com",
   education: [
     {
