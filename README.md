@@ -21,9 +21,8 @@
       "Databases",
       "MVC",
       "Machine Learning",
-      "Firestore",
+      "MicroControllers"
       "Sass",
-      "JSON"
     ],
     "frameworks": [
       "ReactJS",
@@ -36,6 +35,7 @@
     "tools": [
       "VS Code",
       "MongoDB",
+      "Firestore",
       "Linux",
       "Jest",
       "Docker",
