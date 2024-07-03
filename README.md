@@ -4,7 +4,7 @@
 ```json
 {
   "specialty": "Full Stack Developer",
-  "preffered_language": "JavaScript",
+  "preferred_language": "JavaScript",
   "portfolio": "https://kn8dev.com",
   "education": [
     {
