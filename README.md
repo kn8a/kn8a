@@ -13,7 +13,7 @@ const kn8dev = {
   }
 ```
 
-
+![www kn8dev com](https://github.com/kn8a/kn8a/assets/88045655/b6f657ab-b81a-4709-ba74-0ddff882a1fa)
 
 
 <div align="left">
@@ -41,4 +41,4 @@ const kn8dev = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo"  />
 </div>
 
-![www kn8dev com](https://github.com/kn8a/kn8a/assets/88045655/b6f657ab-b81a-4709-ba74-0ddff882a1fa)
+
