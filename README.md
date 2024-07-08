@@ -3,9 +3,6 @@
 
 ```js
 const kn8dev = {
-    expertise: "Full Stack Development",
-    primary_language: "JavaScript",
-    portfolio: "https://kn8dev.com",
     education:
       {
         degree: "Bachelors of Science",
@@ -15,6 +12,7 @@ const kn8dev = {
     languages: ["JavaScript", "Python", "C", "Java", "SQL"],
   }
 ```
+![www kn8dev com](https://github.com/kn8a/kn8a/assets/88045655/81040a56-b6fc-40b2-b407-6f01fab1a007)
 
 
 <div align="left">
