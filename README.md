@@ -3,50 +3,17 @@
 
 ```js
 const kn8dev = {
-  expertise: "Full Stack Development",
-  primary_language: "JavaScript",
-  portfolio: "https://kn8dev.com",
-  education: [
-    {
-      degree: "Bachelors of Science",
-      major: "Computer Science"
-    }
-  ],
-  certifications: ["LPI Linux Essentials", "Axelos ITIL4"],
-  technical_skills: {
-    languages: ["JavaScript", "Python", "SQL", "NoSQL", "C", "Java"],
-    technologies: [
-      "NodeJS",
-      "REST API",
-      "Databases",
-      "MVC",
-      "Machine Learning",
-      "Micro Controllers"
-      "Sass",
-    ],
-    frameworks: [
-      "ReactJS",
-      "Express.js",
-      "Flask",
-      "Bootstrap",
-      "ChakraUI",
-      "Bulma"
-    ],
-    tools: [
-      "VS Code",
-      "MongoDB",
-      "Firestore",
-      "Linux",
-      "Jest",
-      "Docker",
-      "Postman",
-      "Vite",
-      "Webpack",
-      "Heroku",
-      "Fly.io"
-    ]
+    expertise: "Full Stack Development",
+    primary_language: "JavaScript",
+    portfolio: "https://kn8dev.com",
+    education:
+      {
+        degree: "Bachelors of Science",
+        major: "Computer Science"
+      },
+    certifications: ["LPI Linux Essentials", "Axelos ITIL4"],
+    languages: ["JavaScript", "Python", "C", "Java", "SQL"],
   }
-}
 ```
 
 
