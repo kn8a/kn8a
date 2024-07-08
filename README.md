@@ -12,7 +12,8 @@ const kn8dev = {
     languages: ["JavaScript", "Python", "C", "Java", "SQL"],
   }
 ```
-![www kn8dev com](https://github.com/kn8a/kn8a/assets/88045655/81040a56-b6fc-40b2-b407-6f01fab1a007)
+![www kn8dev com](https://github.com/kn8a/kn8a/assets/88045655/b6f657ab-b81a-4709-ba74-0ddff882a1fa)
+
 
 
 <div align="left">
