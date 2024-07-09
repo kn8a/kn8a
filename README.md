@@ -4,11 +4,12 @@
 </h1>
 Also, <img  src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=24&duration=1000&pause=300&color=F7F7F7&random=false&width=435&lines=a+_;a+Chess+player+♟️_+;a+_;a+creative+thinker+🧠💡_;a+_;a+Tennis+addict+🎾_;a+_;a+problem+solver⚠️🙋🏻‍♂️_;a+_;a+team+player+👊🏻_;a+_;a+hiker+⛰️🚶🏻_;a+_;a+learner+👨🏻‍🎓_;a+_;a+great+salesman+👨🏻‍💼💰_"  alt="Typing SVG"  />
 
-<br>
+
 🎓Education: Bachelor of Science in Computer Science <br>
 📃Certificates: LPI Linux Essentials, Axelos ITIL4 <br>
 👨🏻‍💻Languages: JavaScript, Python, C, Java, SQL <br>
 
+<br>
 <a href="https://kn8dev.com">
 
 ![www.kn8dev.com](https://github.com/kn8a/kn8a/assets/88045655/b6f657ab-b81a-4709-ba74-0ddff882a1fa)
