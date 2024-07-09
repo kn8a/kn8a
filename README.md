@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Andrew</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=24&duration=1000&pause=300&color=F7F7F7&random=false&width=435&lines=a+_;a+Chess+player_+;a+_;a+_;a+Full-Stack+Developer_;a+_;a+Tennis+player_" alt="Typing SVG" /></a>
+<h2 align="left">A Full Stack Developer<h2>
+
+
 
 ```js
 const kn8dev = {
