@@ -1,6 +1,7 @@
-<h1 align="left">Hi 👋, I'm Andrew</h1>
-<h2 align="left">A Full Stack Developer<h2>
-
+<h1 align="left">Hi 👋, I'm Andrew,
+<br>a full-stack developer.
+</h1>
+Also, <img  src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=24&duration=1000&pause=300&color=F7F7F7&random=false&width=435&lines=a+_;a+Chess+player_+;a+_;a+Tennis+player_"  alt="Typing SVG"  />
 
 
 ```js
@@ -41,6 +42,6 @@ const kn8dev = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo"  />
-</div>
 
+</div>
 
